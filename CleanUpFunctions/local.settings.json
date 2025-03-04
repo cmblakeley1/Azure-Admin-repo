@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "python",
+        "STORAGE_ACCOUNT_NAME": "storadatainazure",
+        "SQL_SERVER": "yourservername.database.windows.net",
+        "SQL_DATABASE": "your_db_name",
+        "RETENTION_DAYS": "90" // adjust to fit your needs
+    }
+}
